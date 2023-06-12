@@ -2,7 +2,7 @@
   <img align="left" alt="Yasin's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/yasintarakci/">
-  <img align="left" alt="Yasin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Yasin's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ysntrkc.ysntrkc)
@@ -12,7 +12,8 @@
 
 #### I'm a Senior CSE Student in İstanbul, Turkey.
 
-* 💻 I am working on Data Science and Machine Learning.
+* 💻 I am working as a Backend Developer at [MDP Group](https://www.linkedin.com/company/digitalmdp)
+* 
 * 📄 Researching and Developing Deep Learning algorithms for Federated Learning.
 * ⚙️ I use mostly Python and SQL.
 
