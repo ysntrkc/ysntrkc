@@ -33,4 +33,4 @@
 ## My GitHub Stats
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ysntrkc&show_icons=true&theme=gotham&locale=en&layout=compact" alt="ysntrkc"/>
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ysntrkc&show_icons=true&theme=gotham" alt="ysntrkc"/>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ysntrkc&show_icons=true&theme=gotham&count_private=true" alt="ysntrkc"/>
