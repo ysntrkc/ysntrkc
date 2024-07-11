@@ -5,7 +5,7 @@
 #### I'm a Software Developer working in Istanbul, Turkey.
 
 * 💻 I am working as a Software Developer at [MDP Group](https://www.linkedin.com/company/digitalmdp)
-* 🎓 I am recently graduated from [Marmara University](https://www.marmara.edu.tr/en/) with a BSc in Computer Engineering.
+* 🎓 I graduated from [Marmara University](https://www.marmara.edu.tr/en/) with a BSc in Computer Engineering.
 * 📄 Researching and Developing Deep Learning algorithms for Federated Learning.
 * ⚙️ Love to use Python. Also I am interested in JavaScipt, NodeJS and Go.
 * 🌱 I’m currently learning Spring Boot for Backend Development.
